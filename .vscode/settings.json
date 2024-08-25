@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "state.h": "c",
+        "register.h": "c",
+        "stack.h": "c",
+        "display.h": "c",
+        "stdint.h": "c",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp",
+        "rand.h": "c"
+    }
+}
